@@ -1,5 +1,3 @@
-# test_repo
+# IBM Data Science Capstone
 
-## Editing the file
-
-It's a markdown file in this repository.
+This is my final project for the IBM Data Science Professional Certificate.
